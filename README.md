@@ -1,6 +1,6 @@
 # flutter_versionamento
 
-A Flutter Application Using API Versioning.
+Um aplicativo Flutter utilizando o controle de versionamento com API.
 
 Packages utilizados
   * dio: ^3.0.0
