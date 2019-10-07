@@ -12,7 +12,7 @@ Packages utilizados
 Permissão necessária no **AndroidManifest.xml**
   * \<uses-permission android:name="android.permission.INTERNET"/>
 
-Ao iniciar o aplicativo é chamada a função **_initPackageInfo()** para recuperar a versão do app instalado, em sequência vem a **versionamento()** a qual envia para o bando para validação e retorna com 3 itens:
+Ao iniciar o aplicativo é chamada a função **_initPackageInfo()** para recuperar a versão do app instalado, em sequência vem a função de **versionamento()** a qual envia para o bando de dados para validação e retorna com 3 itens:
   *	**SUCCESS**
   *	**MSG**
   *	**TOKEN**
